@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jordan
-- 👩‍💻 I'm a self-taught web developer with two years of experience<br>
+- 👩‍💻 I'm a self-taught web developer<br>
 - 🔭 I’m currently working on building my portfolio<br>
-- 🌱 I’m currently learning about WordPress Development<br>
+- 🌱 I’m currently learning about WordPress Development and bettering my JS skills<br>
 - 📫 You can reach me on Instagram at https://www.instagram.com/jordnlnn.dev/<br>
 - ⚡ Fun fact: I'm Native American & grew up on the Navajo Nation in Arizona 🌵
 
