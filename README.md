@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jordan:
+# 👋 Hi, I'm Jordan
 - 👩‍💻 I'm a self-taught web developer with two years of experience<br>
 - 🔭 I’m currently working on building my portfolio<br>
 - 🌱 I’m currently learning about WordPress Development<br>
