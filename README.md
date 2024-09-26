@@ -2,7 +2,7 @@
 - 👩‍💻 I'm a self-taught web developer<br>
 - 🔭 I’m currently working on building my portfolio<br>
 - 🌱 I’m currently learning about JavaScript (DS & algos), Sass, and WordPress Development<br>
-- 📫 You can reach me on Instagram at https://www.instagram.com/jordnlnn.dev/ or SoloLearn at https://www.sololearn.com/en/profile/20633171<br>
+- 📫 You can reach me on Instagram at https://www.instagram.com/jordnlnn.dev/<br>
 - ⚡ Fun fact: I'm Native American & grew up on the Navajo Nation in Arizona 🌵
 
 ## 💻 Tech Stack
