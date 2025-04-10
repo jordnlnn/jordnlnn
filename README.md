@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Jordan
 - 👩‍💻 Self-taught web developer with a passion for building clean, responsive websites<br>
-- 🌐 Check out my portfolio: https://jordangoldtooth.com<br>
 - 🌱 Currently working through Colt Steele's Web Dev Bootcamp on Udemy and exploring other courses to sharpen my skills<br>
-- 🛠️ I’m also growing my freelance web design career and helping clients bring their ideas to life<br>
 - 📫 You can reach me on Instagram at https://www.instagram.com/jordnlnn.dev/<br>
+- 🌐 Check out my portfolio: https://jordangoldtooth.com<br>
 - ⚡ Fun fact: I'm Native American & grew up on the Navajo Nation in Arizona 🌵
 
 ## 💻 Tech Stack
