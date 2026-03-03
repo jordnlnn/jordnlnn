@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jordan
 - 👩‍💻 Self-taught web developer with a passion for building clean, responsive websites<br>
-- 🌱 Currently learning React, React Native, and Expo<br>
+- 🌱 Currently learning React, Python, and AI<br>
 - 📫 You can reach me on Instagram at https://www.instagram.com/jordnlnn<br>
-- 🌐 Check out my portfolio: https://jordangoldtooth.com<br>
+- 🌐 Check out my portfolio: https://jordnlnn.netlify.app/<br>
 - ⚡ Fun fact: I'm Native American & grew up on the Navajo Nation in Arizona 🌵
 
 ## 💻 Tech Stack
